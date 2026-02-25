@@ -16,4 +16,4 @@ This repo documents my virtualization and OS installation labs with screenshots,
 - Lab 04 – Kali install + internal lab networking
 
 ## Tools
-- VirtualBox / VMware
+- VirtualBox
