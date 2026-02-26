@@ -1,19 +1,17 @@
-# Lab 01 – Install Hypervisor + Create VM + Install Guest OS
+# Lab 01 – VirtualBox Install + Host Virtualization Check
 
 ## Goal
-Create a VM and install a guest OS with verified networking.
-
-## Evidence to include
-- /screenshots (VM settings + install + login + IP proof)
-- /outputs (ipconfig/systeminfo or ip a/uname/ip route)
+Install VirtualBox and verify hardware virtualization is enabled on the host system.
 
 ## Environment
-- Host OS:
-- Hypervisor:
-- Guest OS:
-- VM Specs:
-- Network Mode:
+- Host OS: Windows
+- Hypervisor: VirtualBox
+- Status: Installed and ready for VM creation
 
-## Verification
-- Guest boots to desktop/login
-- Guest has an IP address
+## Evidence
+- Virtualization enabled: `screenshots/01-virtualization-enabled.png`
+- VirtualBox version: `screenshots/02-virtualbox-version.png`
+- Host details: `outputs/host-systeminfo.txt`
+
+## Result
+VirtualBox installed successfully. Host virtualization is enabled and the system is ready to create and run virtual machines.
