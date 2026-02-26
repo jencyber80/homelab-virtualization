@@ -10,7 +10,7 @@ This repo documents my virtualization and OS installation labs with screenshots,
 - Verification evidence (IP config, system info, basic connectivity)
 
 ## Labs
-- Lab 01 – Install Hypervisor + Create VM + Install Guest OS (in progress)
+- [Lab 01 – VirtualBox Install + Host Virtualization Check](Lab-01_VM_Install)
 - Lab 02 – Windows Server install + baseline configuration
 - Lab 03 – Windows 10/11 install + networking verification
 - Lab 04 – Kali install + internal lab networking
