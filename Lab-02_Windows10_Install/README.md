@@ -1,7 +1,12 @@
 # Lab 02 — Install Windows 10 on VirtualBox
 
 ## Goal
-Install Windows 10 in a VirtualBox VM and validate basic networking.
+## Key Skills Demonstrated
+- VirtualBox VM creation and configuration (CPU/RAM/Disk)
+- ISO mounting and boot troubleshooting (“no bootable medium”)
+- Windows 10 installation workflow (Custom install)
+- Basic network verification (ipconfig + ping)
+- Evidence-based documentation (screenshots + outputs)
 
 ## Environment
 - Host OS: Windows (Host PC)
