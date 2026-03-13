@@ -39,3 +39,4 @@ After reboot, confirm at least one of these works:
 - Drag a file from host → VM
 - Copy/paste text from host → VM
 - VM screen resizes automatically when you resize the window
+- Verified: Drag-and-drop works (Host-VM) after reboot
