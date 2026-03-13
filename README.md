@@ -12,6 +12,7 @@ This repo documents my virtualization and OS installation labs with screenshots,
 ## Labs
 - [Lab 01 – VirtualBox Install + Host Virtualization Check](Lab-01_VM_Install)
 - [Lab 02 - Install Windows 10 on VirtualBox](Lab-02_Windows10_Install)
+- [Lab 03 — Guest Additions (VirtualBox)](Lab-03_GuestAdditions)
 
 
 ## Tools
