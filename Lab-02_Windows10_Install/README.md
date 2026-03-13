@@ -59,26 +59,25 @@ Install Windows 10 in a VirtualBox VM and validate basic networking.
 ---
 
 ## Screenshots
-> Replace the filenames below to match what you uploaded (step-01.png, Step 1.png, etc.)
 
 ### ISO Download
-![Step 01](screenshots/step-01.png)
-![Step 02](screenshots/step-02.png)
-![Step 03](screenshots/step-03.png)
+![Step 01](screenshots/01-download-win10.png)
+![Step 02](screenshots/02-download-win10.png)
+![Step 03](screenshots/03-download-win10.png)
 
 ### VirtualBox VM Creation
-![Step 10](screenshots/step-10.png)
-![Step 11](screenshots/step-11.png)
-![Step 12](screenshots/step-12.png)
+![Step 10](screenshots/10-download-win10.png)
+![Step 11](screenshots/11-download-win10.png)
+![Step 12](screenshots/12-download-win10.png)
 
 ### Boot + Install
-![Step 17](screenshots/step-17.png)
-![Step 18](screenshots/step-18.png)
-![Step 19](screenshots/step-19.png)
+![Step 17](screenshots/17-download-win10.png)
+![Step 18](screenshots/18-download-win10.png)
+![Step 19](screenshots/19-download-win10.png)
 
 ### First Boot / Desktop
-![Step 30](screenshots/step-30.png)
-![Step 52](screenshots/step-52.png)
+![Step 30](screenshots/30-download-win10.png)
+![Step 52](screenshots/52-download-win10.png)
 
 ---
 
