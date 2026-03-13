@@ -82,10 +82,11 @@ Install Windows 10 in a VirtualBox VM and validate basic networking.
 ---
 
 ## Verification (Outputs)
-Upload these files to `./outputs/`:
-- `win10-ipconfig.txt`
-- `win10-ping.txt`
+Outputs saved to: [`./outputs/`](./outputs/)
 
+- [`win10-ipconfig.txt`](./outputs/win10-ipconfig.txt)
+- [`win10-ping.txt`](./outputs/win10-ping.txt)
+- 
 Commands used:
 ```bat
 ipconfig /all > win10-ipconfig.txt
